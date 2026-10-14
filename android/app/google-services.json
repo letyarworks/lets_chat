@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466033799048",
+    "project_id": "lets-checks",
+    "storage_bucket": "lets-checks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466033799048:android:bd001d3a12fcf157cdd43d",
+        "android_client_info": {
+          "package_name": "com.yourcompany.letschat.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466033799048-a1edbip7poj0k0fn6rllg55iult0q5o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArc6l_DGSqBlSDRqsaeP-tHcqBRVmf4fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466033799048-a1edbip7poj0k0fn6rllg55iult0q5o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
