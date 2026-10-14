@@ -9,6 +9,9 @@
       - name: Set up local.properties
         script: |
           echo "flutter.sdk=$HOME/programs/flutter" > "$CM_BUILD_DIR/android/local.properties"
+      - name: Set up Google Services
+        script: |
+          echo $GOOGLE_SERVICES_JSON > $CM_BUILD_DIR/android/app/google-services.json
       - name: Get Flutter packages
         script: |
           flutter pub get
